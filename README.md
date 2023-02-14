@@ -1,5 +1,3 @@
-# BANADIR-SCHOOL-14
-
 <html>
     <title> Natiijo</title>
     <head>
@@ -14,12 +12,15 @@
                     <th>Darajo</th>
                     <th>Fasalka</th>
                 </tr>
+                <tr>
                     <td> WINDOW 10</td>
+                   
                     <td> 100
                         <td>  A+
                         <td> COMPUTER</td>
                     </td>
                 </tr>
+            
                 <tr>
                     <td> MS- WORD </td>
                     <td>   90
@@ -35,13 +36,16 @@
                     </td>
                     <td> COMPUTER
                     </td>
-                </tr> 
+                </tr>
+               
+                <tr>
                         <td>M-S POWER POINT </td>
                         <td>Lama hayo</td>
                         <td> Z
                         <td> COMPUTER
                         </td>
                     </tr>
+                    <tr>
                         <td> SECURITY</td>
                         <td>Lama Hayo</td>
                         <td> Z
