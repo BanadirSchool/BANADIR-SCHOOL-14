@@ -37,8 +37,8 @@
                 </tr> 
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td>Lama hayo</td>
-                        <td> Z
+                        <td>80</td>
+                        <td> B
                         <td> COMPUTER
                         </td>
                     </tr>
